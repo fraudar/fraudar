@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=34&pause=1200&color=00D2B4&center=true&vCenter=true&width=520&lines=Ygor;17%20years%20old;Fullstack%20Developer;Flutter%20%7C%20C%2B%2B%20%7C%20Go%20%7C%20Rust" alt="Ygor">
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Ygor;17%20years%20old;Fullstack%20Developer;Flutter%20%7C%20C%2B%2B%20%7C%20Go%20%7C%20Rust" alt="Ygor">
 
 <p align="center">
 I build for mobile, web and native. Dart and C++ day to day, Go and Rust when the problem asks for it.
