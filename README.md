@@ -13,10 +13,10 @@ I build for mobile, web and native. Dart and C++ day to day, Go and Rust when th
 ## Tech Stack & Ecosystem
 
 **Languages**
-<p align="left"><img src="https://skillicons.dev/icons?i=dart,cpp,kotlin,go,lua,python,rust&theme=dark"></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=dart,typescript,javascript,cpp,kotlin,go,lua,python,rust&theme=dark"></p>
 
 **Frontend**
-<p align="left"><img src="https://skillicons.dev/icons?i=flutter,nextjs,react,svelte,angular,typescript,javascript&theme=dark"></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=flutter,nextjs,react,svelte,angular&theme=dark"></p>
 
 **Backend & Infrastructure**
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,docker,linux,git,githubactions&theme=dark"></p>
